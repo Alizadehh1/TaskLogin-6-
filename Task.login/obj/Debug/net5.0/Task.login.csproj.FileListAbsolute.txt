@@ -1,0 +1,15 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\bin\Debug\net5.0\Task.login.exe
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\bin\Debug\net5.0\Task.login.deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\bin\Debug\net5.0\Task.login.runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\bin\Debug\net5.0\Task.login.runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\bin\Debug\net5.0\Task.login.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\bin\Debug\net5.0\ref\Task.login.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\bin\Debug\net5.0\Task.login.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\obj\Debug\net5.0\Task.login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\obj\Debug\net5.0\Task.login.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\obj\Debug\net5.0\Task.login.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\obj\Debug\net5.0\Task.login.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\obj\Debug\net5.0\Task.login.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\obj\Debug\net5.0\ref\Task.login.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\obj\Debug\net5.0\Task.login.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\Task.login\Task.login\obj\Debug\net5.0\Task.login.genruntimeconfig.cache
